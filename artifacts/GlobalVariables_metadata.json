@@ -1,0 +1,82 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "globalVar",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "x",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GolbalVariables.sol": "GlobalVariables"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GolbalVariables.sol": {
+			"keccak256": "0x2098f72bdb2c797dc59ebfe4f4d7634c638c928e0649d224e848368e48e1b603",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7e96981ddea4c3920d4c81ac9858d6c8a712ef2dc7397b60f4f61399a97df539",
+				"dweb:/ipfs/QmUX9Bxq9t44yDjSmSnqeFDsGcf4M3Ty6vzfA4cypAoLXL"
+			]
+		}
+	},
+	"version": 1
+}

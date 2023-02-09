@@ -1,0 +1,118 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assigned",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "b",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "named",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "b",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "returnMany",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "u",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "b1",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"FunctionOutputs.sol": "FunctionOutputs"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"FunctionOutputs.sol": {
+			"keccak256": "0x5356ecad0a2a463578cb86f17be6c21f198ae758377283c7d8d360b2d5d95e0e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f412bb9d218bc95b83bd53e293853ca52a7ba9e47e3bfe6f8c7738ff56e8989f",
+				"dweb:/ipfs/QmWNHxrC8N5NScfFJYgKEP7Z654zAn5oVKjyoQ6h7npszC"
+			]
+		}
+	},
+	"version": 1
+}
